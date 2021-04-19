@@ -9,7 +9,7 @@ tasks:
       image: ami-013f17f36f8b1fefb
       region: us-east-1
       key_name: devops
-      vpc_subnet_id: subnet-55497118
+      vpc_subnet_id: subnet-99d0b9ff
       assign_public_ip: yes
       wait: yes
       count: 1
